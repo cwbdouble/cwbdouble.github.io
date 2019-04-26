@@ -1874,7 +1874,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #959ed5;
+  background: #ffff52;
 }
 .feed-link,
 .chat {
@@ -2938,6 +2938,7 @@ ul.breadcrumb li+li:last-child {
   margin-top: 0px;
   margin-bottom: 60px;
   padding: 25px;
+  background: #fff;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.8);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.8);
 }
@@ -2950,4 +2951,11 @@ body {
 }
 .content-wrap {
   padding: 0px;
+  background: rgba(202,202,202,0);
+}
+.post post-type-normal {
+  background: #fff;
+}
+#posts {
+  padding-top: 0px;
 }
