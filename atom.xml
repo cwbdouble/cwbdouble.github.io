@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-27T07:48:30.305Z</updated>
+  <updated>2019-04-27T07:42:36.257Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>maven学习</title>
-    <link href="http://yoursite.com/2019/04/27/maven%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://yoursite.com/2019/04/27/maven学习/</id>
-    <published>2019-04-27T07:47:55.000Z</published>
-    <updated>2019-04-27T07:48:30.305Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="images/titleImage/2.jpg" width="80%"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;images/titleImage/2.jpg&quot; width=&quot;80%&quot;&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="web后端" scheme="http://yoursite.com/categories/web%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="“web”" scheme="http://yoursite.com/tags/%E2%80%9Cweb%E2%80%9D/"/>
-    
-  </entry>
   
   <entry>
     <title>Hexo Next 如何在文章摘要中插入图片</title>
@@ -69,7 +43,7 @@
     <link href="http://yoursite.com/2019/04/26/Maven%E6%80%BB%E7%BB%93/"/>
     <id>http://yoursite.com/2019/04/26/Maven总结/</id>
     <published>2019-04-26T15:47:18.000Z</published>
-    <updated>2019-04-27T07:54:42.465Z</updated>
+    <updated>2019-04-27T08:07:30.169Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://i2.bvimg.com/685346/349db42b076ea56e.jpg" width="80%/"><br><a id="more"></a></p>]]></content>
     
